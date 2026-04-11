@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://richme.pro/sitemap.xml
